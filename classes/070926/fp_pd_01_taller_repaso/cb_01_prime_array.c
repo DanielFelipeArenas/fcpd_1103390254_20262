@@ -19,7 +19,11 @@ void fill_array (int array[], int size){
 void print_array (int array[], int size){
     printf("\nArray = (");
     for (int i=0;i<size;i++){
-        printf(", %d",array[i]);
+        if (i==size-1){
+            printf("%d",array[i]);
+        }else{
+            printf("%d, ",array[i]);
+        }
     }
     printf(")\n");
 }
