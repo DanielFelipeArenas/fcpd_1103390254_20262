@@ -1,0 +1,14 @@
+.vscode/
+.history/
+*.code-workspace
+
+*.o
+*.out
+*.exe
+*.a
+*.so
+*.dll
+*.dylib
+
+.DS_Store
+Thumbs.db
