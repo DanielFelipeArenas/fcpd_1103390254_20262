@@ -1,3 +1,9 @@
+/*
+ * @file cb_05_sum_recursion.c
+ * @brief exercise in recursive addition in C
+ * @author Daniel Felipe Arenas Gómez
+ * @date 2026-09-07
+*/
 #include <stdio.h>
 
 int sum_recursion(int number){

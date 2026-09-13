@@ -1,3 +1,9 @@
+/*
+ * @file cb_04_factorial_parity.c
+ * @brief exercise on factorial, greater and lesser in C
+ * @author Daniel Felipe Arenas Gómez
+ * @date 2026-09-07
+*/
 #include <stdio.h>
 
 void is_even (int number){

@@ -1,3 +1,9 @@
+/*
+ * @file cb_01_prime_array.c
+ * @brief exercise involving arrays with random numbers and prime number searching in C
+ * @author Daniel Felipe Arenas Gómez
+ * @date 2026-09-07
+*/
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>

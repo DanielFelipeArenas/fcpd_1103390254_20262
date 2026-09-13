@@ -1,3 +1,9 @@
+/*
+ * @file cb_03_larger_smaller.c
+ * @brief exercise in determining major and minor in C
+ * @author Daniel Felipe Arenas Gómez
+ * @date 2026-09-07
+*/
 #include <stdio.h>
 
 void find_largest(int number_a, int number_b, int number_c){

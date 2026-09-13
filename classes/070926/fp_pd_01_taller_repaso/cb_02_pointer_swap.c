@@ -1,3 +1,9 @@
+/*
+ * @file cb_02_pointer_swap.c
+ * @brief exercise on swapping values ​​using pointers in C
+ * @author Daniel Felipe Arenas Gómez
+ * @date 2026-09-07
+*/
 #include <stdio.h>
 
 void swap_pointer(int *number_a, int *number_b){
