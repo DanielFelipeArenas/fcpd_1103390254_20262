@@ -2,7 +2,7 @@
  * @file cb_10_academic_system.c
  * @brief exercise involving a basic academic system
  * @author Daniel Felipe Arenas Gómez
- * @date 2026-09-12
+ * @date 2026-09-07
 */
 #include <stdio.h>
 #include <stdlib.h>

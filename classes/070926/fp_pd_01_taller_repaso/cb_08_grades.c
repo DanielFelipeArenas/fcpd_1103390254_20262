@@ -2,7 +2,7 @@
  * @file cb_08_grades.c
  * @brief exercise on assigning a letter based on a numerical value
  * @author Daniel Felipe Arenas Gómez
- * @date 2026-09-12
+ * @date 2026-09-07
 */
 #include <stdio.h>
 

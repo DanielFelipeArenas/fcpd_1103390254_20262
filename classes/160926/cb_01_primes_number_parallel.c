@@ -1,9 +1,15 @@
+/*
+ * @file cb_01_primes_number_parallel.c
+ * @brief exercise to find prime numbers in parallel
+ * @author Daniel Felipe Arenas Gómez
+ * @date 2026-09-16
+ */
 #include <stdio.h>
 #include <math.h>
 #include <time.h>
 #include <omp.h>
 
-#define N 50000000
+#define N 35000000
 // Function to check if number is prine
 
 int isPrime(int n) {

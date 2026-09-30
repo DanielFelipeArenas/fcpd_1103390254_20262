@@ -1,8 +1,8 @@
 /*
  * @file cb_09_dynamic_memory.c
- * @brief exercise on assigning a letter based on a numerical value
+ * @brief exercise to use dynamic memory in C
  * @author Daniel Felipe Arenas Gómez
- * @date 2026-09-12
+ * @date 2026-09-07
 */
 #include <stdio.h>
 #include <stdlib.h>

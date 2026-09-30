@@ -1,6 +1,6 @@
 /*
  * @file cb_03_larger_smaller.c
- * @brief exercise in determining major and minor in C
+ * @brief exercise to find the largest and smallest number in C
  * @author Daniel Felipe Arenas Gómez
  * @date 2026-09-07
 */

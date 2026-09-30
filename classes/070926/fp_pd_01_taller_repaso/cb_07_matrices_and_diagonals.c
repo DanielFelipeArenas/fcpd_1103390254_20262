@@ -2,7 +2,7 @@
  * @file cb_07_matrices_and_diagonals.c
  * @brief exercise in creating matrices and comparing diagonals
  * @author Daniel Felipe Arenas Gómez
- * @date 2026-09-12
+ * @date 2026-09-07
 */
 #include <stdio.h>
 #include <stdlib.h>

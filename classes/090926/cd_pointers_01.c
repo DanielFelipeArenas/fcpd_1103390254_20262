@@ -1,6 +1,6 @@
 /*
  * @file cd_pointers_01.c
- * @brief basic Exercise of pointers in C
+ * @brief basic exercise with pointers in C
  * @author Daniel Felipe Arenas Gómez
  * @date 2026-09-09
 */

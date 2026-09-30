@@ -2,7 +2,7 @@
  * @file cb_06_invert_pointers.c
  * @brief exercise in reversing the numbers in an array in C
  * @author Daniel Felipe Arenas Gómez
- * @date 2026-09-12
+ * @date 2026-09-07
 */
 #include <stdio.h>
 

@@ -1,6 +1,6 @@
 /*
  * @file cb_04_factorial_parity.c
- * @brief exercise on factorial, greater and lesser in C
+ * @brief exercise to check if a number is even or odd in C
  * @author Daniel Felipe Arenas Gómez
  * @date 2026-09-07
 */
